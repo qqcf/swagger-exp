@@ -3,3 +3,4 @@ chromeSwagger/
 api_summary.txt
 api-docs.json
 *.pyc
+zgrab_result.txt
